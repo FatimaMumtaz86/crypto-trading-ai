@@ -1,0 +1,9 @@
+__pycache__/
+*.csv
+*.json
+*.pkl
+*.h5
+*.db
+data/raw/*
+config/config.yaml
+c
